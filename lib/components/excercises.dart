@@ -26,7 +26,7 @@ class Excercises extends StatelessWidget {
               style: TextStyle(fontSize: 20),
             ),
             subtitle: Text("16 excercises"),
-            trailing: Icon(Icons.more_horiz),
+            trailing: Icon(Icons.more_horiz_outlined),
           ),
         ),
       ),
